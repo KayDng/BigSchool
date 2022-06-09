@@ -169,7 +169,10 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+<<<<<<< HEAD
     <Compile Include="Controllers\CoursesController.cs" />
+=======
+>>>>>>> af97d0d856647ef7ca13691c6f521df2a0fc1f9c
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Global.asax.cs">
@@ -196,9 +199,12 @@
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
+<<<<<<< HEAD
     <Compile Include="ViewModels\CourseViewModel.cs" />
     <Compile Include="ViewModels\FuturaDate.cs" />
     <Compile Include="ViewModels\ValidTime.cs" />
+=======
+>>>>>>> af97d0d856647ef7ca13691c6f521df2a0fc1f9c
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-theme.css" />
@@ -256,7 +262,10 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+<<<<<<< HEAD
     <Content Include="Views\Courses\Create.cshtml" />
+=======
+>>>>>>> af97d0d856647ef7ca13691c6f521df2a0fc1f9c
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
